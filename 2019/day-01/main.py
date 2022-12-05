@@ -26,7 +26,8 @@ def part1(puzzle_input):
     #         y += int(z[1])
     #     elif 'up' in z[0]:
     #         y -= int(z[1])
-    
+     
+   
 
     # return x*y
     pass
